@@ -5,6 +5,10 @@ Built using IONIC 4 and ANGULAR 7.
 
 To use this project follow the steps below:-
 
+Prerequisites:-
+1. NODE shoud be pre-installed.  Click here to download: https://nodejs.org/en/download/
+2. IONIC should be installed.    Click here for steps to install IONIC:https://ionicframework.com/docs/installation/cli 
+
 1. Clone the Project on your system.
 2. Open Terminal and type-> cd 'copy the path of the project' . //Exclude ' single quotes and Hit Enter.
 3. Then type-> npm install .   
