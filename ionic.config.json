@@ -1,5 +1,7 @@
 {
   "name": "TrackBack",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
