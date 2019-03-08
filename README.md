@@ -31,5 +31,6 @@ Now for Running it in iOS Devices:-
 Don't Forget to give Star to this Repository.
 Also Fork it.
 
-Thank You
-Mayank Kumar
+Thank You.
+
+Subscribe to My Youtube Channel for Tech Videos: www.youtube.com/way2tech 
